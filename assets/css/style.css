@@ -544,24 +544,7 @@ section {
   border-radius: 50px;
   padding: 2px 15px;
 }
-.portfolio #portfolio-flters1 {
-  padding: 0;
-  margin: 0 auto 35px auto;
-  list-style: none;
-  text-align: center;
-  background: #fff;
-  border-radius: 50px;
-  padding: 2px 15px;
-}
-.portfolio #portfolio-flters2 {
-  padding: 0;
-  margin: 0 auto 35px auto;
-  list-style: none;
-  text-align: center;
-  background: #fff;
-  border-radius: 50px;
-  padding: 2px 15px;
-}
+
 .portfolio #portfolio-flters li {
   cursor: pointer;
   display: inline-block;
